@@ -1,13 +1,15 @@
 ---
-title: Asmit Nayak
+title: Jack West
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: My research interests include NLP, Reinforcement Learning, Web Privacy and Security.
 interests:
-  - Natural Language Processing
-  - Artificial Intelligence
   - User Privacy
-  - Reinforcement Learning
+  - Security
+  - Operating Systems Security
+  - Reverse Engineering
+  - Dynamic Injection
+  - Computer Vision
 social: 
   - icon: envelope
     icon_pack: fas
@@ -28,13 +30,16 @@ education:
   courses:
     - course: PhD in Computer Sciences
       institution: University of Wisconsin-Madison
-      year: 2021 - Present
-    - course: BS in Computer Engineering 
-      institution: University of Wisconsin-Madison
-      year: 2018 - 2021
+      year: 2022 - Present
+    - course: MS in Computer Science 
+      institution: Loyola University Chicago
+      year: 2020 - 2022
+    - course: BS in Mathematics 
+      institution: Loyola University Chicago
+      year: 2016 - 2020
     - course: BS in Computer Science
-      institution: University of Wisconsin-Madison
-      year: 2018 - 2021
+      institution: Loyola University Chicago
+      year: 2016 - 2020
 email: ""
 superuser: true
 highlight_name: true

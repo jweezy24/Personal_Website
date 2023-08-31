@@ -23,7 +23,7 @@ main:
     url: '#experience'
     weight: 60
   - name: CV
-    url: 'https://pages.cs.wisc.edu/~asmit/Asmit_Nayak_CV.pdf'
+    url: 'uploads/JackCV.pdf'
     weight: 70
 #  - name: Contact
 #    url: '#contact'
