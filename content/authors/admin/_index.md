@@ -2,7 +2,7 @@
 title: Jack West
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: My research interests include NLP, Reinforcement Learning, Web Privacy and Security.
+bio: I've been doing research all over the place before I landed on privacy. I have worked with cryptography, randomness, and fog computing while at Loyola. I have since migrated to privacy work which is now my main interest.
 interests:
   - User Privacy
   - Security
@@ -13,16 +13,16 @@ interests:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: mailto:me@asmitnayak.com
+    link: jwwest@wisc.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=umKgOn8AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=SPvs1hsAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/asmitnayak
+    link: https://github.com/jweezy24
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/asmitnayak
+    link: https://www.linkedin.com/in/jack-west-0b03a2121/
 organizations:
   - name: University of Wisconsin-Madison
     url: https://www.wisc.edu/
@@ -44,6 +44,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. student at University of Wisconsin-Madison majoring in Computer Sciences. My research interests lie in the domain of Machine Learning and Security. I work with Prof. Fawaz at [WI-PI Lab](https://wiscprivacy.com/).
+I am a Ph.D. student at University of Wisconsin-Madison majoring in Computer Sciences. My research interests consist of operating system privacy and security, user privacy, and hacking. I work with Suman Banerjee and Kassem Fawaz, my lab[(WI-PI Lab)](https://wiscprivacy.com/) is where I currently work and am loving the research we are doing!
 
-I did my undergraduate at University of Wisconsin-Madison, double majoring in Computer Engineering and Computer Sciences
+I completed my masters and undergraduate degrees at Loyola University Chicago. There I majored in computer science and mathematics. I started doing research with my Loyola advisors when I was a Sophomore. I also completed my Masters degree there as well.
