@@ -29,7 +29,13 @@ experience:
     location: Madison, WI
     date_start: '2022-09-01'
     date_end: ''
-    description: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Android operating system research
+        * Reverse Engineering/Hacking 
+        * Computer vision 
+        * Machine learning
 
   - title: Teaching Assistant
     company: University of Wisconsin-Madison
@@ -50,7 +56,7 @@ experience:
     company_url: 'https://www.luc.edu/'
     company_logo: loyola
     location: Chicago, Illinois 
-    date_start: '2021-08-20'
+    date_start: '2020-08-20'
     date_end: '2022-05-01'
     description: |2- 
        Responsibilities include:
