@@ -44,6 +44,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. student at University of Wisconsin-Madison majoring in Computer Sciences. My research interests consist of operating system privacy and security, user privacy, and hacking. I work with Suman Banerjee and Kassem Fawaz, my lab[(WI-PI Lab)](https://wiscprivacy.com/) is where I currently work and am loving the research we are doing!
+Currently pursuing my Ph.D. in Computer Science at the University of Wisconsin-Madison, my research delves deep into the nuances of operating system privacy and security, user privacy, and computer vision. I am privileged to be advised by Professors [Suman Banerjee](https://pages.cs.wisc.edu/~suman/) and [Kassem Fawaz](https://kassemfawaz.com/), and I am a member of the cutting-edge [WI-PI Lab](https://wiscprivacy.com/) performing bias and privacy research on machine learning algorithms.
 
-I completed my masters and undergraduate degrees at Loyola University Chicago. There I majored in computer science and mathematics. I started doing research with my Loyola advisors when I was a Sophomore. I also completed my Masters degree there as well.
+I first studied at Loyola University Chicago, where I completed both my undergraduate and master's degrees. I have a solid foundation in mathematics, with an emphasis on algebraic topics such as group theory, Galois theory, and topology. Although these mathematical fields were fascinating, my focus has always been computer science. 
+
+During my time at Loyola, I worked in cryptography, security, and privacy. Over the years, my interests have evolved, leading me to shift from cryptography to more focus on privacy in my research at UW-Madison. My prior advisors were [Neil Klingensmith](https://neilklingensmith.com/) and [George K. Thiruvathukal](https://gkt.sh/). Without them my computer science career would have never become what it is today.

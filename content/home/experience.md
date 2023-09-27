@@ -32,13 +32,13 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Android operating system research
-        * Reverse Engineering/Hacking 
-        * Computer vision 
-        * Machine learning
+        * Instrumented my own version of the Android Operating system in C++ and Java.
+        * Dynamically analyzed Android applications using Frida
+        * Created a computer vision algorithm to detect driver events
+        * Studied machine learning biases of common models
 
   - title: Teaching Assistant
-    company: University of Wisconsin-Madison
+    company: Loyola University Chicago
     company_url: 'https://www.luc.edu/'
     company_logo: "loyola"
     location: Loyola University Chicago
@@ -51,7 +51,7 @@ experience:
         * Created assignments
         * Gave lectures 
 
-  - title: Research Assistant - Loyola 
+  - title: Graduate CS Research Assistant - Loyola 
     company: Loyola University Chicago
     company_url: 'https://www.luc.edu/'
     company_logo: loyola
@@ -61,7 +61,11 @@ experience:
     description: |2- 
        Responsibilities include:
 
-        * Collaborated with students and faculty to write papers 
+        * Worked in C when developing the algorithm for Moonshine.
+        * Wrote a Reed-Solomon Cryptography algorithm in C while working on AeroKey
+        * Dynamically analyzed desktop applications' microphone privacy while working on the mute button project.
+        * Wrote a simple cryptography algorithm based on IR data for my sensor-fusion work.
+  
   - title: Research Intern
     company: Argonne Nation Laboratory
     company_url: 'https://www.anl.gov/'
@@ -75,7 +79,7 @@ experience:
         * Worked in the Waggle Lab
         * Worked with Docker, C, and Python.
 
-  - title: Mathematics Research Assistant
+  - title: Undergraduate Mathematics Research Assistant
     company: Loyola University Chicago
     company_url: 'https://www.luc.edu/'
     company_logo: loyola
@@ -85,7 +89,19 @@ experience:
     description: |2-
        Responsibilities include:
 
-        * Worked with math faculty at Loyola to build a non-local mean curvature in python.
+        * Worked with math faculty at Loyola to build a non-local mean curvature calculator in python.
+
+  - title: Undergraduate Computer Science Research Assistant
+    company: Loyola University Chicago
+    company_url: 'https://www.luc.edu/'
+    company_logo: loyola
+    location: Chicago, Illinois
+    date_start: '2018-01-01'
+    date_end: '2020-05-05'
+    description: |2-
+       Responsibilities include:
+
+        * Worked on Fog computing simulations in Python and Docker.
 
 design:
   columns: '2'
