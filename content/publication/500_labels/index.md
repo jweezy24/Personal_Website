@@ -23,7 +23,7 @@ doi: ""
 featured: true
 tags: []
 projects:
-  - 500-labels
+  - 500_labels
 image:
   caption: ""
   focal_point: ""

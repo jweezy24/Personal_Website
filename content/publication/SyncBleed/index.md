@@ -6,7 +6,7 @@ publication_types:
   - "3"
 authors:
   - Isaac Ahlgren
-  - Jack West
+  - admin
   - Kyuin Lee
   - George K. Thiruvathikal
   - Neil Klingensmith
