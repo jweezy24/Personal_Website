@@ -2,7 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -19,12 +19,12 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  - icon: js
+  - icon: c
     icon_pack: fab
-    name: JS
-  - icon: java
+    name: C/C++
+  - icon: android
     icon_pack: fab
-    name: Java
+    name: Android
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

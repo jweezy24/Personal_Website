@@ -27,62 +27,81 @@ experience:
     company_url: 'https://wiscprivacy.com/'
     company_logo: wisc
     location: Madison, WI
-    date_start: '2021-06-01'
+    date_start: '2022-09-01'
     date_end: ''
-    description: ''
-
-  - title: Graduate Teaching Assistant - Intro to AI (CS 540)
-    company: University of Wisconsin-Madison
-    company_url: 'https://www.wisc.edu/'
-    company_logo: wisc
-    location: Madison, Wisconsin
-    date_start: '2022-06-01'
-    date_end: '2022-12-31'
     description: |2-
         Responsibilities include:
         
-        * Guest Lecturer for the course on Reinforcement Learning over Summer 2022
-        * Worked on assignment grading and course material development 
+        * Instrumented my own version of the Android Operating system in C++ and Java.
+        * Dynamically analyzed Android applications using Frida
+        * Created a computer vision algorithm to detect driver events
+        * Studied machine learning biases of common models
 
-  - title: Graduate Teaching Assistant - Machine Organization and Programming (CS 354)
-    company: University of Wisconsin-Madison
-    company_url: 'https://www.wisc.edu/'
-    company_logo: wisc
-    location: Madison, Wisconsin
-    date_start: '2021-08-20'
+  - title: Teaching Assistant
+    company: Loyola University Chicago
+    company_url: 'https://www.luc.edu/'
+    company_logo: "loyola"
+    location: Loyola University Chicago
+    date_start: '2020-08-29'
+    date_end: '2022-05-05'
+    description: |2-
+        Responsibilities include:
+        
+        * Graded and taught operating systems and low level computing
+        * Created assignments
+        * Gave lectures 
+
+  - title: Graduate CS Research Assistant - Loyola 
+    company: Loyola University Chicago
+    company_url: 'https://www.luc.edu/'
+    company_logo: loyola
+    location: Chicago, Illinois 
+    date_start: '2020-08-20'
     date_end: '2022-05-01'
     description: |2- 
        Responsibilities include:
 
-        * Held discussion sections on C++ and Assembly Language for a class of 320 students.
-        * Wrote automatic grading scripts in Python to grade student HWs and Projects. 
+        * Worked in C when developing the algorithm for Moonshine.
+        * Wrote a Reed-Solomon Cryptography algorithm in C while working on AeroKey
+        * Dynamically analyzed desktop applications' microphone privacy while working on the mute button project.
+        * Wrote a simple cryptography algorithm based on IR data for my sensor-fusion work.
+  
   - title: Research Intern
-    company: Wisconsin Privacy and Security Group
-    company_url: 'https://www.wiscprivacy.com/'
-    company_logo: wisc
-    location: Madison, Wisconsin
-    date_start: '2021-05-01'
-    date_end: '2021-08-01'
+    company: Argonne Nation Laboratory
+    company_url: 'https://www.anl.gov/'
+    company_logo: argonne
+    location: Lemont, Illinois
+    date_start: '2019-06-01'
+    date_end: '2019-08-01'
     description: |2- 
        Responsibilities include:
 
-        * Created the CookieEnforcer web-extension in JS to automatically disable unnecessary cookies.
-        * Created a server in Django to conduct User Studies and collect user data to conduct statistical analysis on it.
-        * Created the backend server to interact with the CookieEnforcer web-extension.
-        * Worked towards building the base model to support a web extension to automatically set and dismiss cookie notices
+        * Worked in the Waggle Lab
+        * Worked with Docker, C, and Python.
 
-  - title: Undergraduate Research Assistant
-    company: Wisconsin Privacy and Security Group
-    company_url: 'https://www.wiscprivacy.com/'
-    company_logo: wisc
-    location: Madison, Wisconsin
-    date_start: '2020-06-01'
-    date_end: '2021-05-01'
+  - title: Undergraduate Mathematics Research Assistant
+    company: Loyola University Chicago
+    company_url: 'https://www.luc.edu/'
+    company_logo: loyola
+    location: Chicago, Illinois
+    date_start: '2018-01-01'
+    date_end: '2020-05-05'
     description: |2-
        Responsibilities include:
 
-        * Worked on using NLP techniques and group them based on similarity using unsupervised learning.
-        * Created a text-extraction program to extract immediate texts from the raw HTML code, based on their relative position to the main element. 
+        * Worked with math faculty at Loyola to build a non-local mean curvature calculator in python.
+
+  - title: Undergraduate Computer Science Research Assistant
+    company: Loyola University Chicago
+    company_url: 'https://www.luc.edu/'
+    company_logo: loyola
+    location: Chicago, Illinois
+    date_start: '2018-01-01'
+    date_end: '2020-05-05'
+    description: |2-
+       Responsibilities include:
+
+        * Worked on Fog computing simulations in Python and Docker.
 
 design:
   columns: '2'
