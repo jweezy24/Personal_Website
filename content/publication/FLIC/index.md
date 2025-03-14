@@ -8,7 +8,7 @@ authors:
   - admin
   - Neil Klingensmith
   - George K. Thiruvathukal
-author_notes: []
+author_notes: ["featured"]
 publication: ICFC 2020
 url_dataset: ""
 url_project: ""

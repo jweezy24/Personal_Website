@@ -21,7 +21,7 @@ url_video: ""
 title: "``Impressively Scary:'' Exploring User Perceptions and Reactions to Unraveling Machine Learning Models in Social Media Applications"
 doi: ""
 featured: true
-tags: []
+tags: ["featured"]
 projects:
   - impressively_scary
 image:

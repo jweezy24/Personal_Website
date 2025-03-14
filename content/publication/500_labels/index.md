@@ -21,7 +21,7 @@ url_video: ""
 title: "A Picture is Worth 500 Labels: A Case Study of Demographic Disparities in Local Machine Learning Models for Instagram and TikTok"
 doi: ""
 featured: true
-tags: []
+tags: ["featured"]
 projects:
   - 500_labels
 image:

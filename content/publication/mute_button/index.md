@@ -21,7 +21,7 @@ url_video: ""
 title: "Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps"
 doi: ""
 featured: true
-tags: []
+tags: ["featured"]
 projects:
   - Mute Button Privacy
 image:
