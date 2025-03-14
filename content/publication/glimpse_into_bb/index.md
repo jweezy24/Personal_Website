@@ -17,7 +17,7 @@ url_source: ""
 url_video: ""
 title: "A Glimpse Into Pandora's Box"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - glimpse

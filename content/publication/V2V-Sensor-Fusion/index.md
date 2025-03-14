@@ -16,7 +16,7 @@ authors:
 publication: DI-CPS 2022
 abstract:
 draft: false
-featured: true
+featured: false
 url_dataset: ""
 url_project: ""
 publication_short: ""

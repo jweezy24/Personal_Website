@@ -20,7 +20,7 @@ url_source: ""
 url_video: ""
 title: "SyncBleed: A Realistic Threat Model and Mitigation Strategy for Zero-Involvement Pairing and Authentication (ZIPA)"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - SyncBleed
