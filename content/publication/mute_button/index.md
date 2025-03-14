@@ -12,7 +12,7 @@ authors:
   - Kassem Fawaz
 author_notes: []
 publication: PoPets 2022
-summary: In this work we explored the privacy of the mute button for video conferencing applications. We found that the software switch to mute the microphone is just that, a software switch. They can still access the microphone whenever they would like. We found that Cisco Webex was accessing the microphone while muted and sending audio derived telemetry data to their server which was a privacy violation.
+summary:
 url_dataset: ""
 url_project: ""
 publication_short: ""
