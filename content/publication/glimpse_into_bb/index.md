@@ -9,7 +9,7 @@ authors:
   - Jingjie Li
   - Kassem Fawaz
 author_notes: []
-publication: CHI 2025
+publication: Communitcations of ACM (CACM)
 url_dataset: ""
 url_project: ""
 publication_short: ""
