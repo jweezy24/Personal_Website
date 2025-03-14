@@ -21,7 +21,7 @@ url_video: ""
 title: "Moonshine: An Online Randomness Distiller for Zero-Involvement Authentication"
 doi: ""
 featured: true
-tags: ["featured"]
+tags: []
 projects:
   - Moonshine
 image:
