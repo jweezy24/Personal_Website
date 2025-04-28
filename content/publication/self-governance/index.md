@@ -10,7 +10,7 @@ authors:
   - Kassem Fawaz
   - Suman Banerjee
 author_notes: []
-publication: CHI 2025
+publication: STAIG 2025 (Workshop)
 url_dataset: ""
 url_project: ""
 publication_short: ""
